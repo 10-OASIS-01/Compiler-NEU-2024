@@ -1,12 +1,13 @@
 # 东北大学编译原理课程设计 [English Version README](https://github.com/10-OASIS-01/Compiler-NEU-2024-/blob/main/README_EN.md)
 
+
 ## 运行环境
 
 - Visual Studio 2022
 
 ## 项目简介
 
-### 题目内容
+东北大学编译原理课程设计
 
 本项目是一个简单文法的编译器前端的设计与实现，包括以下功能：
 
